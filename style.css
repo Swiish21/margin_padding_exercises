@@ -1,0 +1,25 @@
+body {
+    margin: 10px;
+}
+
+#box1 {
+    border: 2px solid;
+    width: 250px;
+    font-size: 20px;
+    background-color: maroon;
+    color: white;
+    border-color: black;
+    margin: 15px;
+    padding: 10px;
+
+}
+#box2 {
+    border: 2px solid;
+    width: 250px;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: navy;
+    border-color: black;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
